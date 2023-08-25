@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 68bf283eb232c8141b8d00b2798f02bf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SF Mono
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 976e51437fe4d9a4e86258fd291c0a15, type: 3}
+  - {fileID: 12800000, guid: f7fe33b1abff58744897ceda6aa10a71, type: 3}
+  - {fileID: 12800000, guid: 638d7f75f8c3bd6468f0837044311558, type: 3}
+  - {fileID: 12800000, guid: 048aee01e731bbc4eaa4fdf1a3ebfbf2, type: 3}
+  - {fileID: 12800000, guid: 66c1cea972c5cc040a72c2c29153ccbf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
